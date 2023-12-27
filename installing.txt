@@ -1,0 +1,40 @@
+Java is a popular programming language created in 1995
+it is owned by Oracle and more than 3 billion devices run Java
+
+
+It is used for:
+
+Mobile applications (specially Android apps)
+Desktop applications
+Web applications
+Web servers and application servers
+Games
+Database connection
+And much, much more!
+
+to download and install Java, first go to the oracle java page
+at
+- https://www.oracle.com/java/  General oracle java page
+- https://www.oracle.com/ng/java/  Oracle java page nigeria
+
+- scroll dow till you see "download Java now", click on it
+- it will take you to another page, scroll down till you see the
+version for your operating system
+- Download it and install
+- After installing, go the C:// drive, go to program files, click on java,
+click on the folder inside of it jdk-21, click on bin -  that is where the
+binary files are kept
+- copy the file path and add them to your environment variables
+
+
+How to add path to environment variable
+- search for environment variable
+- open it, you will see environment variable below, click on it
+- under system variable, click on path and click on edit
+- click on new on the pop up, paste the path and click ok, on the three open
+tab
+- open your commnad prompt and type java -version, if you some details
+like below, then you have succesfully instaled java
+java version "21.0.1" 2023-10-17 LTS
+Java(TM) SE Runtime Environment (build 21.0.1+12-LTS-29)
+Java HotSpot(TM) 64-Bit Server VM (build 21.0.1+12-LTS-29, mixed mode, sharing)
