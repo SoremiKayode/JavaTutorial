@@ -16,5 +16,5 @@ boolean isTodayBoxingDay = true;
 
 System.out.println("Boolean : " + isTodayChristmas);
 System.out.println("Boolean : " + isTodayBoxingDay);
-}
+
 }
